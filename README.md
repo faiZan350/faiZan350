@@ -131,5 +131,4 @@ SETTINGS = {
             'api_three': SHORTENER_API3,
             'third_verify_time': THREE_VERIFY_GAP
 } 
-<!--
-**faiZan350/faiZan350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
